@@ -1,9 +1,7 @@
 #include <iostream>
-#include <string>
 
-using namespace std;
-
-int main (){
-cout <<"hello word!"<<eldl;
-return 0;
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    std::cout << "Nouvelle modification dans main.cpp!" << std::endl;  // Ligne ajoutée
+    return 0;
 }
